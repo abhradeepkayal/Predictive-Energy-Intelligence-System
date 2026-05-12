@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+final_energy_monitoring_results.csv
+processed_energy_dataset.csv

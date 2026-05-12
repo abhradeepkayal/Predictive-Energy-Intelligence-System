@@ -1,0 +1,12 @@
+{
+    "LoadType": {
+        "0": "LED",
+        "1": "Bulb",
+        "2": "Fan"
+    },
+    "Condition": {
+        "0": "Healthy",
+        "1": "Mild",
+        "2": "Moderate"
+    }
+}
