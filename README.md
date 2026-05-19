@@ -156,7 +156,7 @@ Most prediction errors remain concentrated near zero, indicating strong regressi
 
 Real-time electrical monitoring and appliance diagnostics generated using live ESP32 sensor data.
 
-![Live Monitoring](results/live_monitor_system_output.png)
+![Live Monitoring](results/live_monitor_system_output.jpeg)
 
 ---
 
