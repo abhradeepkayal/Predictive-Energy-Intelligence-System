@@ -223,5 +223,5 @@ IIEST Shibpur
 ## Related Repositories
 
 - Overload Detection Model (RF Classifier)
-- Embedded System Repository (ESP32 + Circuit Design)
+- ESP32 True RMS Energy Monitor (Embedded System)
 - Flutter Application Repository (Real-time Mobile Monitoring UI)
