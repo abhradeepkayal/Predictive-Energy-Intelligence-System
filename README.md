@@ -224,4 +224,4 @@ IIEST Shibpur
 
 - Overload Detection Model (RF Classifier)
 - ESP32 True RMS Energy Monitor (Embedded System)
-- Flutter Application Repository (Real-time Mobile Monitoring UI)
+- Smart Energy Monitoring Mobile Application (Flutter App)
